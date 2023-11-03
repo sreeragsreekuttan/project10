@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    color: red;
+    border: 2px solid yellow;
+    align-items: center;
+       
+}
+.bgn{
+    
+    flex-direction: column;
+    flex-direction: column-reverse;
+    text-align: center;
+    
+    
+
+}
+.images img{
+    width: 100%;
+    height: 500px;
+    
+    
+    
+}
+img{
+
+    width: 100%;
+    height: 100%;
+}
+.hello{
+    position: absolute;
+    
+    color:green;
+    text-align: center;
+    
+}
